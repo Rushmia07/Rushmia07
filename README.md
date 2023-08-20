@@ -14,8 +14,7 @@
 <ul>
   <li><a href="https://github.com/Rushmia07/API_TESTING-Project-Booking-project-">Booking Project</a></li>
   <li><a href="https://github.com/Rushmia07/API-TESTING-Project-2">Ludocorner</a></li>
-   <li><a href="https://github.com/Rushmia07/API-TESTING-Project-2">Test Caes</a></li>
-  <!-- Add more projects as needed -->
+   <li><a href="https://github.com/Rushmia07/Test-cases">Test Caes</a></li>
 </ul>
 <h3>📫 How to reach me</h3>
 <p>hridaa12@gmail.com</p>
