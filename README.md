@@ -12,7 +12,7 @@
 <p><strong>🚀 Technologies:</strong> C, C++, JAVA, PYTHON</p>
 <h3>My Projects:</h3>
 <ul>
-  <li><a href="link-to-project1">Project Name 1</a></li>
+  <li><a href="https://github.com/Rushmia07/API_TESTING-Project-Booking-project-">Project Name 1</a></li>
   <li><a href="link-to-project2">Project Name 2</a></li>
   <!-- Add more projects as needed -->
 </ul>
