@@ -3,11 +3,21 @@
 
 
 <h1 align="center">Hi 👋, I'm Rushmia Ahmed</h1>
+<h2 align="center">TRAINEE SQA ENGINEER</h2>
 <h3 align="center">Passionate about software quality assurance and aspiring to become a QA Engineer. Eager to contribute to the development of high-quality software through effective testing strategies. Excited to learn and apply industry-standard testing methodologies, tools, and frameworks. Committed to delivering reliable and user-friendly software solutions</h3>
-<img align="right" alt="coding" width ="400" src="https://i.pinimg.com/originals/e7/26/c7/e726c74ac081eed50feee1433d12c998.gif">
-- 🌱 I’m currently learning **automation testing using Selenium**
-
-- 📫 How to reach me **hridaa12@gmail.com**
+<h3>What I'm Currently Learning</h3>
+<p>🌱 Currently learning automation testing using Selenium to enhance software quality. Exploring how to design and implement robust test scripts for web applications.</p>
+<h3>Ask me about:</h3>
+<p><strong>📚 Topics:</strong> SDLC, STLC, Agile methodology, Scrum, Test plan, Test cases, Mind Mapping, Git/Github</p>
+<p><strong>🚀 Technologies:</strong> C, C++, JAVA, PYTHON</p>
+<h3>My Projects:</h3>
+<ul>
+  <li><a href="link-to-project1">Project Name 1</a></li>
+  <li><a href="link-to-project2">Project Name 2</a></li>
+  <!-- Add more projects as needed -->
+</ul>
+<h3>📫 How to reach me</h3>
+<p>hridaa12@gmail.com</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
