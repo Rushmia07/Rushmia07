@@ -1,5 +1,5 @@
 
-![Banner](https://as2.ftcdn.net/v2/jpg/03/86/72/13/1000_F_386721340_PgdkmGCy92Y0QH0X3kajG34rIA2Lepst.jpg)
+![Banner](https://im5.ezgif.com/tmp/ezgif-5-312389883e.gif)
 
 
 <h1 align="center">Hi 👋, I'm Rushmia Ahmed</h1>
