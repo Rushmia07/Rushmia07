@@ -1,6 +1,5 @@
 
 
-![Banner](https://im5.ezgif.com/tmp/ezgif-5-312389883e.gif)
 
 
 <h1 align="center">Hi 👋, I'm Rushmia Ahmed</h1>
